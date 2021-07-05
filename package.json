@@ -22,7 +22,7 @@
     "@glimmer/component": "^0.13.0",
     "@glimmer/inline-precompile": "^1.0.1",
     "@glimmer/resolver": "0.4.3",
-    "@glimmer/ssr": "^0.13.0",
+    "@glimmer/ssr": "^1.0.4",
     "@glimmer/test-helpers": "^0.31.2",
     "@orbit/coordinator": "^0.16.7",
     "@orbit/core": "^0.16.3",
