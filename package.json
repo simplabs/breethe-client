@@ -60,7 +60,7 @@
     "express": "^4.17.1",
     "geoip-lite": "^1.4.2",
     "morgan": "^1.10.0",
-    "navigo": "^7.1.2",
+    "navigo": "^8.11.1",
     "raven": "^2.6.4",
     "request": "^2.88.2",
     "request-ip": "^2.1.3",
