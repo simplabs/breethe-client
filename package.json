@@ -19,7 +19,7 @@
     "@glimmer/application": "^0.13.0",
     "@glimmer/application-pipeline": "^0.15.0",
     "@glimmer/blueprint": "^1.0.4",
-    "@glimmer/component": "^0.13.0",
+    "@glimmer/component": "^1.0.4",
     "@glimmer/inline-precompile": "^1.0.1",
     "@glimmer/resolver": "0.4.3",
     "@glimmer/ssr": "^0.13.0",
